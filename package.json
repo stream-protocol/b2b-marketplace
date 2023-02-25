@@ -1,0 +1,25 @@
+{
+  "name": "streampay-b2b-marketplace",
+  "version": "1.0.0",
+  "description": "A decentralized eCommerce Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stream-protocol/b2b-marketplace.git"
+  },
+  "keywords": [
+    "streampay",
+    "b2b",
+    "marketplace",
+    "store"
+  ],
+  "author": "Stream Protoocol / StreamPay™",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stream-protocol/b2b-marketplace/issues"
+  },
+  "homepage": "https://github.com/stream-protocol/b2b-marketplace#readme"
+}
