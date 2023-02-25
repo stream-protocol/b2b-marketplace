@@ -41,8 +41,8 @@ Check out the instructions in the [B2B Server README](https://github.com/stream-
 1. Clone this repository:
 
 ```bash
-git clone --recurse-submodules https://github.com/shahednasser/medusa-b2b.git
-cd medusa-b2b
+git clone --recurse-submodules https://github.com/stream-protocol/b2b-marketplace.git
+cd b2b-marketplace
 ```
 
 2\. Install the dependencies for each of the directories:
