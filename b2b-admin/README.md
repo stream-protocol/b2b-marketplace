@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.medusa-commerce.com">
-    <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+  <a href="https://admin.streamcommerce.co">
+    <img alt="Stream Commerce" src="https://i.imgur.com/3jUHsfu.png" width="100" />
   </a>
 </p>
 <h1 align="center">
-  StreamPay Admin
+  StreamPay - eCommerce Admin
 </h1>
 <p align="center">
 A decentralized eCommerce Platform
@@ -36,8 +36,8 @@ Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) 
 
 1. **Clone this repository**
    ```
-   git clone https://github.com/stream-protocol/b2b-marketplace/b2b-admin medusa-admin
-   cd medusa-admin
+   git clone https://github.com/stream-protocol/b2b-marketplace/b2b-admin
+   cd b2b-admin
    ```
 2. **Install dependencies**
    ```
@@ -49,7 +49,7 @@ Follow our [quickstart guide](https://docs.medusajs.com/quickstart/quick-start) 
    ```
 4. **Go to [http://localhost:7000](http://localhost:7000)**
 
-Back in your Medusa engine installation directory, you can create your own user for the admin by running:
+Back in your commerce engine installation directory, you can create your own user for the admin by running:
 
 ```
 medusa user -e some@email.com -p some-password
@@ -61,7 +61,7 @@ admin@medusa-test.com // supersecret
 
 ### Features
 
-You can learn about all of the ecommerce features that Medusa provides [in our documentation](https://docs.medusajs.com/introduction#features).
+You can learn about all of the e-commerce features that Medusa provides [in our documentation](https://docs.medusajs.com/introduction#features).
 
 ## Contributions
 
@@ -69,7 +69,7 @@ Please check [our contribution guide](https://github.com/stream-protocol/b2b-ma
 
 ## Repository structure
 
-The Medusa repository is a mono-repository managed using Lerna. Lerna allows us to have all Medusa packages in one place, and still distribute them as separate NPM packages.
+The b2b marketplace repository is a mono-repository managed using Lerna. Lerna allows us to have all StreamPay commerce packages in one place, and still distribute them as separate NPM packages.
 
 ## Licensed
 
@@ -78,11 +78,14 @@ Licensed under the [MIT License](https://github.com/stream-protocol/b2b-marketpl
 
 ## Community & Support
 
-Use these channels to be part of the community, ask for help while using Medusa, or just learn more about Medusa:
+Use these channels to be part of the community, ask for help while using b2b marketplace, or just learn more about StreamPay:
 
-- [Discord](https://discord.gg/medusajs): This is the main channel to join the community. You can ask for help, showcase your work with Medusa, and stay up to date with everything Medusa.
-- [GitHub Issues](https://github.com/stream-protocol/b2b-marketplace.git/issues): for sending in any issues you face or bugs you find while using Medusa.
+## Learn more about Stream Protocol / StreamPay
+
+- [Discord](https://discord.gg/vTA9uNP6): This is the main channel to join the community. You can ask for help, showcase your work with StreamPay, and stay up to date with everything StreamPay and Stream Protocol´s projects.
+- [GitHub Issues](https://github.com/stream-protocol/b2b-marketplace.git/issues): for sending in any issues you face or bugs you find while using StreamPay eCommerce Platform.
 - [GitHub Discussions](https://github.com/stream-protocol/b2b-marketplace.git/discussions): for joining discussions and submitting your ideas.
-- [Medusa Blog](https://medusajs.com/blog/): find diverse tutorials and company news.
-- [Twitter](https://twitter.com/medusajs)
-- [LinkedIn](https://www.linkedin.com/company/medusajs)
+- [Blog](https://streamprotocol.org/blog/): find diverse tutorials and company news.
+- [Twitter](https://twitter.com/stream_prototocol)
+- [LinkedIn](https://www.linkedin.com/company/stream-protocol)
+

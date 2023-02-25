@@ -55,7 +55,7 @@ const MailDialog = ({ open, onClose }: MailDialogProps) => {
           </div>
           <div className="flex flex-col items-center gap-y-base">
             <a
-              href="https://discord.gg/medusajs"
+              href="https://discord.gg/vTA9uNP6"
               target="_blank"
               rel="noopener noreferrer"
               className="group cursor-pointer w-full"
