@@ -32,7 +32,7 @@ This project includes three directories:
 
 ### Using Medusa CLI Tool
 
-If you're only interested in the Medusa server, you can install it using the Medusa CLI tool.
+If you're only interested in the Medusa server, you can install it using the Medusa CLI tool, or
 
 Check out the instructions in the [B2B Server README](https://github.com/stream-protocol/b2b-marketplace/b2b-server/blob/master/README.md)
 
@@ -56,7 +56,7 @@ cd ../b2b-storefront
 npm install
 ```
 
-3\. Rename the template environment variables of Medusa server:
+3\. Rename the template environment variables of b2b server:
 
 ```bash
 cd b2b-server
@@ -65,7 +65,7 @@ mv .env.template .env
 
 And enter the necessary environment variables in the file.
 
-4\. Rename the template environment variables of Medusa storefront:
+4\. Rename the template environment variables of StreamPay´s b2b marketplace storefront:
 
 ```bash
 cd b2b-storefront
@@ -74,7 +74,7 @@ mv .env.template .env
 
 And enter the necessary environment variables in the file.
 
-5\. Start Medusa Server:
+5\. Start Server:
 
 ```bash
 cd b2b-server
@@ -88,7 +88,7 @@ cd b2b-admin
 npm start
 ```
 
-And you can then start the Medusa storefront while the server is running with the following command:
+And you can then start the StreamPay storefront while the server is running with the following command:
 
 ```bash
 cd b2b-storefront
@@ -97,4 +97,4 @@ npm run dev
 
 ## Other Resources
 
-- [Medusa Documentation](https://docs.medusajs.com/)
+- [Documentation](https://docs.medusajs.com/)
