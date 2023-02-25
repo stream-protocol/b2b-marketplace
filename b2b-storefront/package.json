@@ -1,11 +1,11 @@
 {
-  "name": "medusa-next",
+  "name": "streampay-next",
   "version": "1.0.3",
   "private": true,
-  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> (https://www.medusajs.com)",
-  "description": "Next.js starter to be used with Medusa server",
+  "author": "StreamPay",
+  "description": "Next.js starter to be used with b2b marketplace server",
   "keywords": [
-    "medusa-storefront"
+    "streampay-storefront"
   ],
   "scripts": {
     "dev": "next dev -p 8000",
