@@ -22,15 +22,15 @@ try {
 } catch (e) {
 }
 
-// CORS when consuming Medusa from admin
+// CORS when consuming StreamPay from admin
 const ADMIN_CORS = process.env.ADMIN_CORS || "http://localhost:7000,http://localhost:7001,https://dashboard.heroku.com/apps/b2b-marketplace-backend/resources";
 
-// CORS to avoid issues when consuming Medusa from a client
+// CORS to avoid issues when consuming StreamPay from a client
 const STORE_CORS = process.env.STORE_CORS || "http://localhost:8000";
 
-// Database URL (here we use a local database called medusa-development)
-const DATABASE_URL =https://dashboard.heroku.com/apps/b2b-marketplace-backend/resources
-  process.env.DATABASE_URL || "postgres://streampay.store";
+// Database URL (here we use a local database called stream-commerce-development)
+const DATABASE_URL = https://dashboard.heroku.com/apps/b2b-marketplace-backend/resources
+  process.env.DATABASE_URL || "postgres://dashboard.heroku.com/apps/b2b-marketplace-backend/resources";
 
 // Medusa uses Redis, so this needs configuration as well
 const REDIS_URL = process.env.REDIS_URL || "redis://localhost:6379";
